@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-53,
+				-338
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-57,
+				-321
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-73,
+				-323
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-89,
+				-298
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-92,
+				-347
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/OpilaSK_Asset",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "opilabird",
+	"flip_x": false,
+	"healthbar_colors": [
+		158,
+		101,
+		146
+	],
+	"camera_position": [
+		140,
+		290
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

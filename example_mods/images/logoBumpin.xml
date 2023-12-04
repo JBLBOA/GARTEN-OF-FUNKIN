@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logoBumpin.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="logo Bumpin0000" x="0" y="0" width="370" height="376"/>
+	<SubTexture name="logo Bumpin0001" x="0" y="0" width="370" height="376"/>
+	<SubTexture name="logo Bumpin0002" x="370" y="0" width="350" height="355" frameX="-10" frameY="-11" frameWidth="370" frameHeight="376"/>
+	<SubTexture name="logo Bumpin0003" x="370" y="0" width="350" height="355" frameX="-10" frameY="-11" frameWidth="370" frameHeight="376"/>
+	<SubTexture name="logo Bumpin0004" x="0" y="376" width="328" height="331" frameX="-21" frameY="-23" frameWidth="370" frameHeight="376"/>
+	<SubTexture name="logo Bumpin0005" x="0" y="376" width="328" height="331" frameX="-21" frameY="-23" frameWidth="370" frameHeight="376"/>
+	<SubTexture name="logo Bumpin0006" x="328" y="376" width="305" height="299" frameX="-33" frameY="-39" frameWidth="370" frameHeight="376"/>
+	<SubTexture name="logo Bumpin0007" x="328" y="376" width="305" height="299" frameX="-33" frameY="-39" frameWidth="370" frameHeight="376"/>
+	<SubTexture name="logo Bumpin0008" x="328" y="376" width="305" height="299" frameX="-33" frameY="-39" frameWidth="370" frameHeight="376"/>
+	<SubTexture name="logo Bumpin0009" x="328" y="376" width="305" height="299" frameX="-33" frameY="-39" frameWidth="370" frameHeight="376"/>
+	<SubTexture name="logo Bumpin0010" x="328" y="376" width="305" height="299" frameX="-33" frameY="-39" frameWidth="370" frameHeight="376"/>
+	<SubTexture name="logo Bumpin0011" x="328" y="376" width="305" height="299" frameX="-33" frameY="-39" frameWidth="370" frameHeight="376"/>
+</TextureAtlas>

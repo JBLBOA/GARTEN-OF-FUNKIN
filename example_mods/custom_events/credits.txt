@@ -1,0 +1,4 @@
+
+
+value1 = credits text
+value2 = imagen (optional)

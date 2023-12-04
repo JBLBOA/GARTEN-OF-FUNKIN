@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FREEPLAYFLECHASGOF1.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="OKNO0000" x="2" y="2" width="150" height="91"/>
+	<SubTexture name="OKNO0001" x="2" y="2" width="150" height="91"/>
+	<SubTexture name="OKNO0002" x="155" y="2" width="149" height="91" frameX="0" frameY="0" frameWidth="150" frameHeight="91"/>
+	<SubTexture name="OKNO0003" x="155" y="2" width="149" height="91" frameX="0" frameY="0" frameWidth="150" frameHeight="91"/>
+	<SubTexture name="OKNO0004" x="155" y="2" width="149" height="91" frameX="0" frameY="0" frameWidth="150" frameHeight="91"/>
+	<SubTexture name="OKNO0005" x="155" y="2" width="149" height="91" frameX="0" frameY="0" frameWidth="150" frameHeight="91"/>
+	<SubTexture name="OKSI0000" x="307" y="2" width="158" height="128" frameX="-5" frameY="-10" frameWidth="208" frameHeight="154"/>
+	<SubTexture name="OKSI0001" x="307" y="2" width="158" height="128" frameX="-5" frameY="-10" frameWidth="208" frameHeight="154"/>
+	<SubTexture name="OKSI0002" x="2" y="133" width="185" height="145" frameX="0" frameY="0" frameWidth="208" frameHeight="154"/>
+	<SubTexture name="OKSI0003" x="2" y="133" width="185" height="145" frameX="0" frameY="0" frameWidth="208" frameHeight="154"/>
+	<SubTexture name="OKSI0004" x="190" y="133" width="202" height="144" frameX="-6" frameY="-10" frameWidth="208" frameHeight="154"/>
+	<SubTexture name="OKSI0005" x="190" y="133" width="202" height="144" frameX="-6" frameY="-10" frameWidth="208" frameHeight="154"/>
+</TextureAtlas>

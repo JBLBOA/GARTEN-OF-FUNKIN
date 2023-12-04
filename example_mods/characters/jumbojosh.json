@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				30,
+				-270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		},
+		{
+			"offsets": [
+				49,
+				-294
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				-30,
+				-290
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				140,
+				-201
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				-45,
+				-343
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				537,
+				-162
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "jumbo",
+			"loop": false,
+			"name": "I AM JUMBO JOSH BRO0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/JUMBO_JOSH",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Jumbo",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		85
+	],
+	"camera_position": [
+		120,
+		320
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="JUMBO JOSH.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DOWN0000" x="2" y="2" width="321" height="402" frameX="0" frameY="-5" frameWidth="321" frameHeight="407"/>
+	<SubTexture name="DOWN0001" x="2" y="2" width="321" height="402" frameX="0" frameY="-5" frameWidth="321" frameHeight="407"/>
+	<SubTexture name="DOWN0002" x="326" y="2" width="316" height="407" frameX="-2" frameY="0" frameWidth="321" frameHeight="407"/>
+	<SubTexture name="DOWN0003" x="326" y="2" width="316" height="407" frameX="-2" frameY="0" frameWidth="321" frameHeight="407"/>
+	<SubTexture name="DOWN0004" x="326" y="2" width="316" height="407" frameX="-2" frameY="0" frameWidth="321" frameHeight="407"/>
+	<SubTexture name="DOWN0005" x="326" y="2" width="316" height="407" frameX="-2" frameY="0" frameWidth="321" frameHeight="407"/>
+	<SubTexture name="DOWN0006" x="326" y="2" width="316" height="407" frameX="-2" frameY="0" frameWidth="321" frameHeight="407"/>
+	<SubTexture name="DOWN0007" x="326" y="2" width="316" height="407" frameX="-2" frameY="0" frameWidth="321" frameHeight="407"/>
+	<SubTexture name="DOWN0008" x="326" y="2" width="316" height="407" frameX="-2" frameY="0" frameWidth="321" frameHeight="407"/>
+	<SubTexture name="DOWN0009" x="326" y="2" width="316" height="407" frameX="-2" frameY="0" frameWidth="321" frameHeight="407"/>
+	<SubTexture name="DOWN0010" x="326" y="2" width="316" height="407" frameX="-2" frameY="0" frameWidth="321" frameHeight="407"/>
+	<SubTexture name="DOWN0011" x="326" y="2" width="316" height="407" frameX="-2" frameY="0" frameWidth="321" frameHeight="407"/>
+	<SubTexture name="DOWN0012" x="326" y="2" width="316" height="407" frameX="-2" frameY="0" frameWidth="321" frameHeight="407"/>
+	<SubTexture name="DOWN0013" x="326" y="2" width="316" height="407" frameX="-2" frameY="0" frameWidth="321" frameHeight="407"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0000" x="645" y="2" width="436" height="419" frameX="-508" frameY="-109" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0001" x="1084" y="2" width="435" height="419" frameX="-508" frameY="-109" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0002" x="1522" y="2" width="436" height="419" frameX="-508" frameY="-109" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0003" x="1961" y="2" width="435" height="419" frameX="-508" frameY="-109" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0004" x="2399" y="2" width="436" height="419" frameX="-508" frameY="-109" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0005" x="2838" y="2" width="435" height="419" frameX="-508" frameY="-109" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0006" x="3276" y="2" width="436" height="419" frameX="-508" frameY="-109" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0007" x="2" y="424" width="435" height="419" frameX="-508" frameY="-109" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0008" x="440" y="424" width="513" height="434" frameX="-470" frameY="-113" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0009" x="440" y="424" width="513" height="434" frameX="-470" frameY="-113" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0010" x="956" y="424" width="479" height="511" frameX="-487" frameY="-36" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0011" x="956" y="424" width="479" height="511" frameX="-487" frameY="-36" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0012" x="1438" y="424" width="495" height="494" frameX="-479" frameY="-53" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0013" x="1438" y="424" width="495" height="494" frameX="-479" frameY="-53" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0014" x="1438" y="424" width="495" height="494" frameX="-479" frameY="-53" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0015" x="1438" y="424" width="495" height="494" frameX="-479" frameY="-53" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0016" x="1936" y="424" width="731" height="494" frameX="-471" frameY="-53" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0017" x="1936" y="424" width="731" height="494" frameX="-471" frameY="-53" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0018" x="2670" y="424" width="710" height="494" frameX="-472" frameY="-53" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0019" x="2670" y="424" width="710" height="494" frameX="-472" frameY="-53" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0020" x="2670" y="424" width="710" height="494" frameX="-472" frameY="-53" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0021" x="2670" y="424" width="710" height="494" frameX="-472" frameY="-53" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0022" x="2670" y="424" width="710" height="494" frameX="-472" frameY="-53" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0023" x="2670" y="424" width="710" height="494" frameX="-472" frameY="-53" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0024" x="2670" y="424" width="710" height="494" frameX="-472" frameY="-53" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0025" x="2670" y="424" width="710" height="494" frameX="-472" frameY="-53" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0026" x="2670" y="424" width="710" height="494" frameX="-472" frameY="-53" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0027" x="2670" y="424" width="710" height="494" frameX="-472" frameY="-53" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0028" x="3383" y="424" width="437" height="403" frameX="-507" frameY="-125" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0029" x="2" y="938" width="439" height="403" frameX="-506" frameY="-125" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0030" x="444" y="938" width="402" height="443" frameX="-524" frameY="-85" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0031" x="849" y="938" width="403" height="443" frameX="-524" frameY="-85" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0032" x="1255" y="938" width="410" height="430" frameX="-520" frameY="-98" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0033" x="1668" y="938" width="411" height="430" frameX="-520" frameY="-98" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0034" x="2082" y="938" width="410" height="430" frameX="-520" frameY="-98" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0035" x="2495" y="938" width="411" height="430" frameX="-520" frameY="-98" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0036" x="2082" y="938" width="410" height="430" frameX="-520" frameY="-98" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0037" x="2495" y="938" width="411" height="430" frameX="-520" frameY="-98" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0038" x="2082" y="938" width="410" height="430" frameX="-520" frameY="-98" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0039" x="2495" y="938" width="411" height="430" frameX="-520" frameY="-98" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0040" x="2082" y="938" width="410" height="430" frameX="-520" frameY="-98" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0041" x="2495" y="938" width="411" height="430" frameX="-520" frameY="-98" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0042" x="2082" y="938" width="410" height="430" frameX="-520" frameY="-98" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0043" x="2909" y="938" width="340" height="296" frameX="-574" frameY="-219" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0044" x="2909" y="938" width="340" height="296" frameX="-574" frameY="-219" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0045" x="3252" y="938" width="327" height="307" frameX="-580" frameY="-208" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0046" x="3252" y="938" width="327" height="307" frameX="-580" frameY="-208" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0047" x="3582" y="938" width="315" height="321" frameX="-586" frameY="-194" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0048" x="3582" y="938" width="315" height="321" frameX="-586" frameY="-194" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0049" x="2" y="1384" width="333" height="321" frameX="-569" frameY="-194" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0050" x="2" y="1384" width="333" height="321" frameX="-569" frameY="-194" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0051" x="338" y="1384" width="319" height="321" frameX="-585" frameY="-194" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0052" x="338" y="1384" width="319" height="321" frameX="-585" frameY="-194" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0053" x="3582" y="938" width="315" height="321" frameX="-586" frameY="-194" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0054" x="3582" y="938" width="315" height="321" frameX="-586" frameY="-194" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0055" x="660" y="1384" width="353" height="321" frameX="-584" frameY="-194" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0056" x="660" y="1384" width="353" height="321" frameX="-584" frameY="-194" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0057" x="1016" y="1384" width="320" height="321" frameX="-582" frameY="-194" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0058" x="1016" y="1384" width="320" height="321" frameX="-582" frameY="-194" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0059" x="3582" y="938" width="315" height="321" frameX="-586" frameY="-194" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0060" x="3582" y="938" width="315" height="321" frameX="-586" frameY="-194" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0061" x="1339" y="1384" width="291" height="516" frameX="-598" frameY="0" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0062" x="1339" y="1384" width="291" height="516" frameX="-598" frameY="0" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0063" x="1633" y="1384" width="347" height="295" frameX="-570" frameY="-221" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0064" x="1633" y="1384" width="347" height="295" frameX="-570" frameY="-221" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0065" x="3582" y="938" width="315" height="321" frameX="-586" frameY="-194" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0066" x="3582" y="938" width="315" height="321" frameX="-586" frameY="-194" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0067" x="1983" y="1384" width="717" height="321" frameX="-579" frameY="-194" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0068" x="1983" y="1384" width="717" height="321" frameX="-579" frameY="-194" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0069" x="2703" y="1384" width="326" height="321" frameX="-574" frameY="-194" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0070" x="2703" y="1384" width="326" height="321" frameX="-574" frameY="-194" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0071" x="3582" y="938" width="315" height="321" frameX="-586" frameY="-194" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0072" x="3582" y="938" width="315" height="321" frameX="-586" frameY="-194" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0073" x="3032" y="1384" width="908" height="321" frameX="0" frameY="-194" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0074" x="3032" y="1384" width="908" height="321" frameX="0" frameY="-194" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0075" x="2" y="1903" width="345" height="321" frameX="-586" frameY="-194" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0076" x="2" y="1903" width="345" height="321" frameX="-586" frameY="-194" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0077" x="3582" y="938" width="315" height="321" frameX="-586" frameY="-194" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0078" x="3582" y="938" width="315" height="321" frameX="-586" frameY="-194" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0079" x="350" y="1903" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0080" x="350" y="1903" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0081" x="648" y="1903" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0082" x="648" y="1903" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0083" x="946" y="1903" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0084" x="946" y="1903" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0085" x="1244" y="1903" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0086" x="1244" y="1903" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0087" x="1542" y="1903" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0088" x="1542" y="1903" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0089" x="1840" y="1903" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0090" x="1840" y="1903" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0091" x="2138" y="1903" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0092" x="2138" y="1903" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0093" x="2436" y="1903" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0094" x="2436" y="1903" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0095" x="2734" y="1903" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0096" x="2734" y="1903" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0097" x="3032" y="1903" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0098" x="3032" y="1903" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0099" x="3330" y="1903" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0100" x="3330" y="1903" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0101" x="3628" y="1903" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0102" x="3628" y="1903" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0103" x="2" y="2345" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0104" x="2" y="2345" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0105" x="300" y="2345" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0106" x="300" y="2345" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0107" x="598" y="2345" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0108" x="598" y="2345" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0109" x="896" y="2345" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0110" x="896" y="2345" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0111" x="1194" y="2345" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0112" x="1194" y="2345" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0113" x="1492" y="2345" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0114" x="1492" y="2345" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0115" x="1790" y="2345" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0116" x="1790" y="2345" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0117" x="2088" y="2345" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0118" x="350" y="1903" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="I AM JUMBO JOSH BRO0119" x="350" y="1903" width="295" height="439" frameX="-583" frameY="-87" frameWidth="1296" frameHeight="547"/>
+	<SubTexture name="IDLE0000" x="2386" y="2345" width="430" height="413" frameX="-3" frameY="-7" frameWidth="437" frameHeight="420"/>
+	<SubTexture name="IDLE0001" x="2819" y="2345" width="429" height="413" frameX="-3" frameY="-7" frameWidth="437" frameHeight="420"/>
+	<SubTexture name="IDLE0002" x="3251" y="2345" width="416" height="405" frameX="-11" frameY="-15" frameWidth="437" frameHeight="420"/>
+	<SubTexture name="IDLE0003" x="3670" y="2345" width="415" height="405" frameX="-11" frameY="-15" frameWidth="437" frameHeight="420"/>
+	<SubTexture name="IDLE0004" x="2" y="2787" width="436" height="409" frameX="0" frameY="-11" frameWidth="437" frameHeight="420"/>
+	<SubTexture name="IDLE0005" x="441" y="2787" width="436" height="409" frameX="0" frameY="-11" frameWidth="437" frameHeight="420"/>
+	<SubTexture name="IDLE0006" x="880" y="2787" width="437" height="420"/>
+	<SubTexture name="IDLE0007" x="1320" y="2787" width="436" height="420" frameX="-1" frameY="0" frameWidth="437" frameHeight="420"/>
+	<SubTexture name="IDLE0008" x="1759" y="2787" width="436" height="418" frameX="0" frameY="-2" frameWidth="437" frameHeight="420"/>
+	<SubTexture name="IDLE0009" x="2198" y="2787" width="436" height="418" frameX="0" frameY="-2" frameWidth="437" frameHeight="420"/>
+	<SubTexture name="IDLE0010" x="2637" y="2787" width="436" height="420" frameX="0" frameY="0" frameWidth="437" frameHeight="420"/>
+	<SubTexture name="IDLE0011" x="3076" y="2787" width="436" height="420" frameX="0" frameY="0" frameWidth="437" frameHeight="420"/>
+	<SubTexture name="IDLE0012" x="2637" y="2787" width="436" height="420" frameX="0" frameY="0" frameWidth="437" frameHeight="420"/>
+	<SubTexture name="IDLE0013" x="3076" y="2787" width="436" height="420" frameX="0" frameY="0" frameWidth="437" frameHeight="420"/>
+	<SubTexture name="LEFT0000" x="3515" y="2787" width="347" height="408" frameX="0" frameY="0" frameWidth="363" frameHeight="408"/>
+	<SubTexture name="LEFT0001" x="3515" y="2787" width="347" height="408" frameX="0" frameY="0" frameWidth="363" frameHeight="408"/>
+	<SubTexture name="LEFT0002" x="2" y="3210" width="336" height="395" frameX="-27" frameY="-4" frameWidth="363" frameHeight="408"/>
+	<SubTexture name="LEFT0003" x="2" y="3210" width="336" height="395" frameX="-27" frameY="-4" frameWidth="363" frameHeight="408"/>
+	<SubTexture name="LEFT0004" x="2" y="3210" width="336" height="395" frameX="-27" frameY="-4" frameWidth="363" frameHeight="408"/>
+	<SubTexture name="LEFT0005" x="2" y="3210" width="336" height="395" frameX="-27" frameY="-4" frameWidth="363" frameHeight="408"/>
+	<SubTexture name="LEFT0006" x="2" y="3210" width="336" height="395" frameX="-27" frameY="-4" frameWidth="363" frameHeight="408"/>
+	<SubTexture name="LEFT0007" x="2" y="3210" width="336" height="395" frameX="-27" frameY="-4" frameWidth="363" frameHeight="408"/>
+	<SubTexture name="LEFT0008" x="2" y="3210" width="336" height="395" frameX="-27" frameY="-4" frameWidth="363" frameHeight="408"/>
+	<SubTexture name="LEFT0009" x="2" y="3210" width="336" height="395" frameX="-27" frameY="-4" frameWidth="363" frameHeight="408"/>
+	<SubTexture name="LEFT0010" x="2" y="3210" width="336" height="395" frameX="-27" frameY="-4" frameWidth="363" frameHeight="408"/>
+	<SubTexture name="LEFT0011" x="2" y="3210" width="336" height="395" frameX="-27" frameY="-4" frameWidth="363" frameHeight="408"/>
+	<SubTexture name="LEFT0012" x="2" y="3210" width="336" height="395" frameX="-27" frameY="-4" frameWidth="363" frameHeight="408"/>
+	<SubTexture name="LEFT0013" x="2" y="3210" width="336" height="395" frameX="-27" frameY="-4" frameWidth="363" frameHeight="408"/>
+	<SubTexture name="RIGHT0000" x="341" y="3210" width="547" height="340" frameX="0" frameY="-8" frameWidth="554" frameHeight="350"/>
+	<SubTexture name="RIGHT0001" x="341" y="3210" width="547" height="340" frameX="0" frameY="-8" frameWidth="554" frameHeight="350"/>
+	<SubTexture name="RIGHT0002" x="891" y="3210" width="525" height="350" frameX="-29" frameY="0" frameWidth="554" frameHeight="350"/>
+	<SubTexture name="RIGHT0003" x="891" y="3210" width="525" height="350" frameX="-29" frameY="0" frameWidth="554" frameHeight="350"/>
+	<SubTexture name="RIGHT0004" x="891" y="3210" width="525" height="350" frameX="-29" frameY="0" frameWidth="554" frameHeight="350"/>
+	<SubTexture name="RIGHT0005" x="891" y="3210" width="525" height="350" frameX="-29" frameY="0" frameWidth="554" frameHeight="350"/>
+	<SubTexture name="RIGHT0006" x="891" y="3210" width="525" height="350" frameX="-29" frameY="0" frameWidth="554" frameHeight="350"/>
+	<SubTexture name="RIGHT0007" x="891" y="3210" width="525" height="350" frameX="-29" frameY="0" frameWidth="554" frameHeight="350"/>
+	<SubTexture name="RIGHT0008" x="891" y="3210" width="525" height="350" frameX="-29" frameY="0" frameWidth="554" frameHeight="350"/>
+	<SubTexture name="RIGHT0009" x="891" y="3210" width="525" height="350" frameX="-29" frameY="0" frameWidth="554" frameHeight="350"/>
+	<SubTexture name="RIGHT0010" x="891" y="3210" width="525" height="350" frameX="-29" frameY="0" frameWidth="554" frameHeight="350"/>
+	<SubTexture name="RIGHT0011" x="891" y="3210" width="525" height="350" frameX="-29" frameY="0" frameWidth="554" frameHeight="350"/>
+	<SubTexture name="RIGHT0012" x="891" y="3210" width="525" height="350" frameX="-29" frameY="0" frameWidth="554" frameHeight="350"/>
+	<SubTexture name="RIGHT0013" x="891" y="3210" width="525" height="350" frameX="-29" frameY="0" frameWidth="554" frameHeight="350"/>
+	<SubTexture name="UP0000" x="1419" y="3210" width="527" height="492" frameX="0" frameY="0" frameWidth="529" frameHeight="492"/>
+	<SubTexture name="UP0001" x="1419" y="3210" width="527" height="492" frameX="0" frameY="0" frameWidth="529" frameHeight="492"/>
+	<SubTexture name="UP0002" x="1949" y="3210" width="519" height="471" frameX="-10" frameY="-16" frameWidth="529" frameHeight="492"/>
+	<SubTexture name="UP0003" x="1949" y="3210" width="519" height="471" frameX="-10" frameY="-16" frameWidth="529" frameHeight="492"/>
+	<SubTexture name="UP0004" x="1949" y="3210" width="519" height="471" frameX="-10" frameY="-16" frameWidth="529" frameHeight="492"/>
+	<SubTexture name="UP0005" x="1949" y="3210" width="519" height="471" frameX="-10" frameY="-16" frameWidth="529" frameHeight="492"/>
+	<SubTexture name="UP0006" x="1949" y="3210" width="519" height="471" frameX="-10" frameY="-16" frameWidth="529" frameHeight="492"/>
+	<SubTexture name="UP0007" x="1949" y="3210" width="519" height="471" frameX="-10" frameY="-16" frameWidth="529" frameHeight="492"/>
+	<SubTexture name="UP0008" x="1949" y="3210" width="519" height="471" frameX="-10" frameY="-16" frameWidth="529" frameHeight="492"/>
+	<SubTexture name="UP0009" x="1949" y="3210" width="519" height="471" frameX="-10" frameY="-16" frameWidth="529" frameHeight="492"/>
+	<SubTexture name="UP0010" x="1949" y="3210" width="519" height="471" frameX="-10" frameY="-16" frameWidth="529" frameHeight="492"/>
+	<SubTexture name="UP0011" x="1949" y="3210" width="519" height="471" frameX="-10" frameY="-16" frameWidth="529" frameHeight="492"/>
+	<SubTexture name="UP0012" x="1949" y="3210" width="519" height="471" frameX="-10" frameY="-16" frameWidth="529" frameHeight="492"/>
+	<SubTexture name="UP0013" x="1949" y="3210" width="519" height="471" frameX="-10" frameY="-16" frameWidth="529" frameHeight="492"/>
+</TextureAtlas>

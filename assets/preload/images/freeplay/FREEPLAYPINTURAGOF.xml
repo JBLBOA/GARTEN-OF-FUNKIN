@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FREEPLAYPINTURAGOF.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PINTURA0000" x="2" y="2" width="995" height="574"/>
+	<SubTexture name="PINTURA0001" x="2" y="2" width="995" height="574"/>
+	<SubTexture name="PINTURA0002" x="2" y="579" width="995" height="573" frameX="0" frameY="-1" frameWidth="995" frameHeight="574"/>
+	<SubTexture name="PINTURA0003" x="2" y="579" width="995" height="573" frameX="0" frameY="-1" frameWidth="995" frameHeight="574"/>
+	<SubTexture name="PINTURA0004" x="2" y="1155" width="995" height="573" frameX="0" frameY="-1" frameWidth="995" frameHeight="574"/>
+	<SubTexture name="PINTURA0005" x="2" y="1155" width="995" height="573" frameX="0" frameY="-1" frameWidth="995" frameHeight="574"/>
+</TextureAtlas>

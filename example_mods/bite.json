@@ -1,0 +1,32 @@
+{
+	"storyName": "bite ai tula mix",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "gartenofbanban",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"bite",
+			"dad",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"demo",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "bite"
+}

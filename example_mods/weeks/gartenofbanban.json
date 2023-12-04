@@ -1,0 +1,50 @@
+{
+	"storyName": "NO WAY IT'S GARTEN OF BANBAN",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"funired",
+			"banban",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"bird",
+			"opilabird",
+			[
+				255,
+				95,
+				253
+			]
+		],
+		[
+			"hulk",
+			"jumbo",
+			[
+				0,
+				255,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"banban",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "GARTEN"
+}
